@@ -1,0 +1,3 @@
+[submodule "FtcRobotControllerTeam"]
+	path = FtcRobotControllerTeam
+	url = https://github.com/scientifictouchftc/FtcRobotControllerTeam.git
